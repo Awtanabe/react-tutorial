@@ -21,3 +21,11 @@
   text-align: center;
   line-height: 51px;
 }
+
+
+/* form */
+
+.Invalid{
+  border: 1px solid red;
+  background-color: salmon;
+}
